@@ -26,6 +26,6 @@ The results are saved as a dictionary in the file `wake-sleep.pt`.
 
 To run the simulation presented in Figures 5 and 6, use
 ```
-$ python SYN-diff.py
+$ python SYN_diff.py
 ```
 The results are saved as a dictionary in the file `syn-diff.npy`.
