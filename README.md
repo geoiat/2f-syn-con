@@ -1,7 +1,7 @@
 # 2f-syn-con
 
-Code for the  manuscript
-   > ***Two-factor synaptic consolidation reconciles robust memory with pruning and homeostatic scaling***<br>
+This repository contains simulation code for the  manuscript
+   > [**Two-factor synaptic consolidation reconciles robust memory with pruning and homeostatic scaling**](https://doi.org/10.1101/2024.07.23.604787)<br>
      by Georgios Iatropoulos, Wulfram Gerstner, Johanni Brea (2024)
 
 ### Requirements
