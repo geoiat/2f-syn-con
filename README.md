@@ -6,7 +6,7 @@ This repository contains simulation code for the  manuscript
 
 ### Requirements
 The main code is included in `RNNTorchTensor.py` and uses the following packages:
-- PyTorch (1.9.1)
+- PyTorch (1.9.1 + CUDA 10.2)
 - NumPy (1.21.2)
 - SciPy (1.7.1)
 - Scikit-learn (0.24.2)
