@@ -1,0 +1,6 @@
+torch == 2.5.*
+numpy == 1.*
+scipy
+scikit-learn
+matplotlib
+jupyterlab
