@@ -200,4 +200,4 @@ data['err_syn_1'] = err_mat_syn_1
 data['cap_syn_1mask'] = cap_mat_syn_1mask
 data['err_syn_1mask'] = err_mat_syn_1mask
 
-torch.save(data, 'syn-con.pt')
+torch.save(data, './data/rnn_f50.pt')
