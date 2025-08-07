@@ -56,4 +56,4 @@ data['beta'] = beta_vec
 data['rec_dict'] = rec_dict
 data['ksi_fam'] = rnn.X
 
-torch.save(data, 'wake-sleep.pt')
+torch.save(data, './data/rnn_wake-sleep.pt')
