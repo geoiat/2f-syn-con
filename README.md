@@ -13,7 +13,7 @@ The scripts and notebooks are all written in `Python 3.x` and require the follow
 - Matplotlib
 - Jupyterlab
 
-The packages can be installed all at once with:
+The package versions listed above are not strictly necessary, but were used to produce the original results. The packages can all be installed at once with:
 ```
 $ pip install -r requirements.txt
 ```
