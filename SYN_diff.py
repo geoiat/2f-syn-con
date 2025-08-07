@@ -186,4 +186,4 @@ data['z'] = z_vec
 data['sig'] = sig_u
 data['tau'] = tau_u
 
-np.save('syn-diff.npy', data)
+np.save('./data/syn_noise.npy', data)
