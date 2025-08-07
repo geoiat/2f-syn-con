@@ -6,7 +6,7 @@
 """
 
 import torch
-from RNNTorchTensors import ContinualRNN
+from RNN import ContinualRNN
 
 # Set device
 device = torch.device('cuda:0') if torch.cuda.is_available() else torch.device('cpu')
